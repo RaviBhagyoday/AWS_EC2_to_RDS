@@ -6,4 +6,4 @@
 
 4.  Launch EC2 with "ec2.sh" Bash Script ( Change script accordingly ).
 
-That's IT.
+5.  Browse Public ip of EC2.
